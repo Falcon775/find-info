@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dff1001-2c9b-4f9c-a02f-d84bbc339b08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/FileInput.js" afterDir="false" />
+    <list default="true" id="3dff1001-2c9b-4f9c-a02f-d84bbc339b08" name="Default Changelist" comment="careless whisper">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/QustionInputs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QustionInputs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SourceFileInput.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +44,16 @@
       <updated>1621281181136</updated>
       <workItem from="1621281183521" duration="134000" />
       <workItem from="1621281366321" duration="4968000" />
-      <workItem from="1622054484091" duration="5479000" />
+      <workItem from="1622054484091" duration="6534000" />
     </task>
+    <task id="LOCAL-00001" summary="careless whisper">
+      <created>1622064935458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622064935458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +70,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="careless whisper" />
+    <option name="LAST_COMMIT_MESSAGE" value="careless whisper" />
   </component>
 </project>

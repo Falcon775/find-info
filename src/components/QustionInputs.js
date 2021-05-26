@@ -22,7 +22,6 @@ export const QuestionInputs = ({ findAnswer}) => {
                 allowClear
                 enterButton="Ask"
                 size="large"
-                suffix={suffix}
                 onSearch={findAnswer}/>
         </>
     )
