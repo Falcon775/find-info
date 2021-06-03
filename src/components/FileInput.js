@@ -4,7 +4,6 @@ import 'antd/dist/antd.css';
 
 
 
-const { Dragger } = Upload;
 
 
 export const FileInput = ({ setFileText }) => {

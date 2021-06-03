@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dff1001-2c9b-4f9c-a02f-d84bbc339b08" name="Default Changelist" comment="careless whisper">
+    <list default="true" id="3dff1001-2c9b-4f9c-a02f-d84bbc339b08" name="Default Changelist" comment="sdfgdfhdf">
+      <change afterPath="$PROJECT_DIR$/src/components/FirebaseAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TextList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/QustionInputs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/QustionInputs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FileInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FileInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +53,9 @@
       <updated>1621281181136</updated>
       <workItem from="1621281183521" duration="134000" />
       <workItem from="1621281366321" duration="4968000" />
-      <workItem from="1622054484091" duration="6534000" />
+      <workItem from="1622054484091" duration="6623000" />
+      <workItem from="1622141862116" duration="1194000" />
+      <workItem from="1622744742848" duration="13894000" />
     </task>
     <task id="LOCAL-00001" summary="careless whisper">
       <created>1622064935458</created>
@@ -53,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622064935458</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sdfgdfhdf">
+      <created>1622065939315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622065939315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="careless whisper" />
-    <option name="LAST_COMMIT_MESSAGE" value="careless whisper" />
+    <MESSAGE value="sdfgdfhdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdfgdfhdf" />
   </component>
 </project>
